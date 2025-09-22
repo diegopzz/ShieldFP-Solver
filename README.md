@@ -1,8 +1,4 @@
-# 🛡️ ShieldFP-Solver
 
-## 📊 Analysis Output
-
-The application provides detailed analysis in a beautiful console interface:
 
 ```
 ┌─ 📊 Shield Analysis Results ──────────────────────────────────────────────┐
