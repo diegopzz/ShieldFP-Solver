@@ -1,0 +1,80 @@
+{
+  "name": "shieldid-solver",
+  "version": "2.0.0",
+  "main": "src/shieldid_solver.js",
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "scripts": {
+    "start": "node src/shieldid_solver.js",
+    "dev": "nodemon src/shieldid_solver.js",
+    "test": "node tests/test_system.js",
+    "generate": "node -e \"const { generateFingerprint } = require('./src/shieldid_solver'); console.log(JSON.stringify(generateFingerprint('test-cookie', 'test-session'), null, 2));\"",
+    "test-fingerprint": "node -e \"const FP = require('./lib/fingerprint_generator'); const gen = new FP(); console.log('GPU:', gen.generateGPU().GPU_VENDOR); console.log('Audio Hash:', gen.generateAudioHash().substring(0, 20) + '...'); console.log('Network:', gen.generateNetwork().type);\"",
+    "test-encryption": "node -e \"const encrypt = require('./lib/encryption'); encrypt.f17('test').then(result => console.log('Encryption test:', result.length, 'chars'));\"",
+    "clean-logs": "node -e \"const fs = require('fs'); const path = './logs'; if(fs.existsSync(path)) { fs.rmSync(path, {recursive: true}); fs.mkdirSync(path); console.log('Logs cleaned'); } else { console.log('No logs to clean'); }\"",
+    "analyze-logs": "node scripts/analyze_results.js",
+    "benchmark": "node scripts/benchmark.js",
+    "validate": "node scripts/validate_fingerprints.js",
+    "lint": "echo 'Add ESLint configuration for code quality checks'",
+    "setup": "npm install && node scripts/setup_environment.js"
+  },
+
+  "author": "ShieldID-Solver",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.6.0",
+    "chalk": "^4.1.2",
+    "https-proxy-agent": "^7.0.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.2"
+  },
+  "optionalDependencies": {
+    "canvas": "^2.11.2"
+  },
+
+  "files": [
+    "src/",
+    "lib/",
+    "config/",
+    "scripts/",
+    "README.md",
+    "LICENSE"
+  ],
+  "config": {
+    "shield": {
+      "endpoint": "https://a65d82f32a95ed2f8fae8e20563001365d8a887b.csftr.com/shield-fp/v1/api/web",
+      "save_threshold": 115,
+      "request_delay": 10
+    },
+    "proxy": {
+      "enabled": false,
+      "url": ""
+    },
+    "logging": {
+      "enabled": true,
+      "max_files": 1000,
+      "compression": true
+    },
+    "analysis": {
+      "auto_analyze": true,
+      "report_generation": true,
+      "export_csv": true
+    }
+  },
+  "nodemonConfig": {
+    "watch": [
+      "src/",
+      "lib/",
+      "config/"
+    ],
+    "ignore": [
+      "logs/",
+      "node_modules/",
+      "tests/"
+    ],
+    "delay": "1000",
+    "ext": "js,json"
+  }
+}

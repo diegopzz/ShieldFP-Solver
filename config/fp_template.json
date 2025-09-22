@@ -1,0 +1,474 @@
+{
+    "SITE_ID": "a65d82f32a95ed2f8fae8e20563001365d8a887b",
+    "SESSION_ID": "f3b7c9a1e2d4f8a6b5c3d1e9f7a2b8c4",
+    "TEST": false,
+    "TYPE": "JS",
+    "VER": "SHIELD 1.5.154",
+    "SR": "https://example.com/en/user/signup/create-account/verification-payment",
+    "USER_AGENT": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36",
+    "DISPLAY": "24|24|1920|1080|1920|1080|1920|1080",
+    "PLUGINS": "internal-pdf-viewer(Chrome%20PDF%20Viewer)|internal-pdf-viewer(Chromium%20PDF%20Viewer)|internal-pdf-viewer(Microsoft%20Edge%20PDF%20Viewer)|internal-pdf-viewer(PDF%20Viewer)|internal-pdf-viewer(WebKit%20built-in%20PDF)",
+    "PLATFORM": "Win32",
+    "DATE": "Sun Jan 12 2025 20:13:58 GMT+0100 (Central European Standard Time)",
+    "DATE_UTC": "Sun Jan 12 2025 20:13:58 GMT+0100 (Central European Standard Time)",
+    "DATE_LOCALE": "1/12/2025, 8:13:58 PM",
+    "GMT": "1",
+    "CANVAS": "a7f3e9d1b5c8f4a2e6d9c3b7f1a5e8d2c6f9b3a7e1",
+    "CANVAS_WINDING": 1,
+    "GPU": "ANGLE (Intel, Intel(R) HD Graphics 630 (0x00005916) Direct3D11 vs_5_0 ps_5_0, D3D11)",
+    "GPU_VENDOR": "Google Inc. (Intel)",
+    "AUDIO": "",
+    "CPU": 8,
+    "ORI": -1,
+    "ORI_PROP": false,
+    "TCH": 0,
+    "COK": "aBc3dE7fgH9jKl1mN5pQ8rS2tU6vW0xY",
+    "ERR": "{}",
+    "LANG": "[\"de\"]",
+    "MAX_TOUCH_POINTS": 0,
+    "NIGHTMARE_JS": false,
+    "PHANTOM_JS": [
+        false,
+        false,
+        false
+    ],
+    "WEBDRIVER": false,
+    "PERMISSION": false,
+    "CONNECTION": "5g",
+    "CONNECTION_DOWNLINK": 10,
+    "CONNECTION_DOWNLINKMAX": -1,
+    "CONNECTION_RTT": 50,
+    "CONNECTION_TYPE": "",
+    "CONNECTION_SAVEDATA": 0,
+    "WEBGL": "4f8b2a7c3e9d1b5f8a4c7e2d9b6f3a8c5e1d7b4",
+    "MATH": "11013.2329s2qqq0103324|-1.4214488238747245",
+    "GEN_ERROR": "sjarsdsfg is not defined|SyntaxError: Unexpected token '<', \"<html></html>\" is not valid JSON",
+    "CANVAS_TODATAURL": "function toDataURL() { [native code] }",
+    "AUDIO_GETCHANNELDATA": "function getChannelData() { [native code] }",
+    "BATTERY_LEVEL": 1,
+    "BATTERY_CHARGING": 1,
+    "CLIENTRECTS": "top:26.9204qqq387664sdasdsd79492|bottom:74.9864330291748|left:92.77533721923828|right:229.00428009033203|width:136.22894287109375|height:48.06599426269531|x:92.77533721923828|y:26.920438766479492",
+    "DONOTTRACK": 1,
+    "FONTS": "Arial,Arial Blawwwwck,Arial Narrowsdsddssdsdsds,Calibri,Calibri Light,Cambria,Cambria Math,Candara,Comic Sans MS,Consolas,Constantia,Corbel,Courier,Courier New,Ebrima,Franklin Gothic Heavy,Franklin Gothic Medium,Gabriola,Gadugi,Georgia,Helvetica,Impact,Lucida Console,Lucida Sans Unicode,MS Gothic,MS PGothic,MS Sans Serif,MS Serif,MS UI Gothic,MV Boli,Malgun Gothic,Marlett,Microsoft Himalaya,Microsoft JhengHei,Microsoft JhengHei UI,Microsoft New Tai Lue,Microsoft PhagsPa,Microsoft Sans Serif,Microsoft Tai Le,Microsoft YaHei,Microsoft YaHei UI,Microsoft Yi Baiti,MingLiU-ExtB,MingLiU_HKSCS-ExtB,Mongolian Baiti,NSimSun,Nirmala UI,PMingLiU-ExtB,Palatino Linotype,Segoe Print,Segoe Script,Segoe UI,Segoe UI Light,Segoe UI Semibold,Segoe UI Symbol,SimSun,SimSun-ExtB,Sylfaen,Symbol,Tahoma,Times New Roman,Trebuchet MS,Verdana,Webdings,Wingdings",
+    "GLYPHS": "556x1500,556x1500,500x1500,447x1219,610x1500,500x1500,664x1500,664x1500,664x1500,540x1219,664x1500,664x1500,5s56x1s500,556x1500,500x1500,447x1219,610x1500,500x1500,734x1500,734x1500,618x1500,502x1219,618x1500,618x1500,1000x1500,971x1500,971x1500,789x1219,971x1500,971x1500,611x1500,611x1500,611x1500,447x1219,610x1500,611x1500,353x1500,353x1500,305x1500,248x1219,305x1500,305x1500,703x1500,703x1500,713x1500,447x1219,713x1500,713x1500,601x1500,601x1500,601x1500,488x1219,601x1500,601x1500,600x1500,750x1500,778x1500,447x1219,500x1500,168x1500,0x1500,0x1500,0x1500,0x1219,0x1500,0x1500,594x1500,594x1500,594x1500,483x1219,594x1500,594x1500,1228x1500,1228x1500,1228x1500,998x1219,1228x1500,1228x1500,1210x1500,1210x1500,1210x1500,984x1219,1210x1500,1210x1500,594x1500,594x1500,594x1500,483x1219,594x1500,594x1500,1000x1500,1000x1500,1000x1500,813x1219,1000x1500,1000x1500,798x1500,798x1500,798x1500,648x1219,798x1500,798x1500,927x1500,927x1500,927x1500,753x1219,927x1500,927x1500,242x1500,242x1500,242x1500,197x1219,242x1500,242x1500,546x1500,546x1500,546x1500,444x1219,546x1500,546x1500,862x1500,862x1500,862x1500,701x1219,862x1500,862x1500,556x1500,556x1500,500x1500,447x1219,622x1500,500x1500,490x1500,490x1500,444x1500,447x1219,444x1500,444x1500,521x1500,521x1500,500x1500,447x1219,500x1500,500x1500,638x1500,638x1500,638x1500,519x1219,638x1500,638x1500,600x1500,750x1500,778x1500,447x1219,500x1500,750x1500,600x1500,750x1500,778x1500,447x1219,500x1500,750x1500,500x1500,500x1500,500x1500,406x1219,500x1500,500x1500,702x1500,702x1500,702x1500,571x1219,702x1500,702x1500,700x1500,700x1500,700x1500,569x1219,700x1500,700x1500,529x1500,529x1500,529x1500,430x1219,529x1500,529x1500,540x1500,540x1500,540x1500,439x1219,540x1500,540x1500,1000x1500,1000x1500,1000x1500,813x1219,1000x1500,1000x1500,1000x1500,1000x1500,1000x1500,813x1219,1000x1500,1000x1500,0x1500,0x1500,0x1500,0x1219,0x1500,0x1500,0x1500,0x1500,0x1500,0x1219,0x1500,0x1500,600x1500,750x1500,778x1500,447x1219,500x1500,750x1500,549x1500,667x1500,556x1500,447x1219,693x1500,517x1500,727x1500,727x1500,761x1500,447x1219,731x1500,761x1500,0x1500,0x1500,0x1500,0x1219,0x1500,0x1500,600x1500,750x1500,778x1500,447x1219,500x1500,750x1500,611x1500,611x1500,611x1500,496x1219,611x1500,611x1500,903x1500,903x1500,903x1500,734x1219,903x1500,903x1500",
+    "SETATTRIBUTE": "function setAttribute() { [native code] }",
+    "OFFSETWIDTH": "function get offsetWidth() { [native code] }",
+    "CANVAS_PIXEL": {
+        "original": [
+            10000
+        ],
+        "collected": [
+            10000
+        ]
+    },
+    "PRIVATE": false,
+    "PRIVATE_INDICATORS": "{\"detection_class\":\"C\",\"detection_type\":\"SC\"}",
+    "WEBGL_MVD": "function Int32Array() { [native code] }",
+    "SOURCE_REF": "",
+    "THE_FORKS": false,
+    "TIMEZONE": "Europe/Paris",
+    "WINDOW_CS": "9f2e7b3a44cd89222222e11b305fz901887dcf9538a",
+    "DM": 8,
+    "RN": "Rt5mP8qXs1vB4nZ9cD6eF2gH7jK3lM0",
+    "SW": 1,
+    "UAD": {
+        "ual": {
+            "brands": [
+                {
+                    "brand": "Google Chrome",
+                    "version": "132"
+                },
+                {
+                    "brand": "Chromium",
+                    "version": "132"
+                },
+                {
+                    "brand": "Not_A Brand",
+                    "version": "24"
+                }
+            ],
+            "mobile": false,
+            "platform": "Windows"
+        },
+        "ualerr": "",
+        "uah": {
+            "architecture": "x86",
+            "bitness": "64",
+            "brands": [
+                {
+                    "brand": "Google Chrome",
+                    "version": "132"
+                },
+                {
+                    "brand": "Chromium",
+                    "version": "132"
+                },
+                {
+                    "brand": "Not_A Brand",
+                    "version": "24"
+                }
+            ],
+            "fullVersionList": [
+                {
+                    "brand": "Google Chrome",
+                    "version": "132.0.0.0"
+                },
+                {
+                    "brand": "Chromium",
+                    "version": "132.0.0.0"
+                },
+                {
+                    "brand": "Not_A Brand",
+                    "version": "24.0.0.0"
+                }
+            ],
+            "mobile": false,
+            "model": "",
+            "platform": "Windows",
+            "platformVersion": "24.0.0.0",
+            "uaFullVersion": "132.0.0.0",
+            "wow64": false
+        },
+        "uaherr": ""
+    },
+    "WR": {
+        "rc_res": {
+            "id": "xY3mK8nP5qRt",
+            "timestamp": 1727012543789.123,
+            "type": "remote-candidate",
+            "address": "192.168.1.42",
+            "candidateType": "host",
+            "foundation": "2468013579",
+            "ip": "192.168.1.42",
+            "isRemote": false,
+            "port": 47382,
+            "priority": 85297416308,
+            "protocol": "udp",
+            "transportId": "T01",
+            "usernameFragment": "aB7cD"
+        },
+        "rc_err": ""
+    },
+    "WR_2": {
+        "r": [
+            {
+                "candidate": "candidate:123456789 1 udp 2113937151 abc1d234e-5f6g-7h8i-9j0k-1l2m3n4o5p6q.local 51668 typ host generation 0 ufrag aB3d network-cost 999",
+                "sdpMid": "0",
+                "sdpMLineIndex": 0,
+                "usernameFragment": "aB3d"
+            },
+            {
+                "candidate": "candidate:987654321 1 udp 1677729535 192.168.1.203 51668 typ srflx raddr 0.0.0.0 rport 0 generation 0 ufrag aB3d network-cost 999",
+                "sdpMid": "0",
+                "sdpMLineIndex": 0,
+                "usernameFragment": "aB3d"
+            }
+        ],
+        "i": [
+            "192.168.1.158"
+        ],
+        "ix": [
+            {
+                "type": "srflx",
+                "address": "192.168.1.158"
+            }
+        ],
+        "e": "",
+        "t": 2341.8000000023456
+    },
+    "LSTS": 1727012543890,
+    "B1": {
+        "v1": 0.09999999776482582,
+        "v2": 0.10000000149011612,
+        "e": ""
+    },
+    "B2": "",
+    "B3": "",
+    "B4": {
+        "any-hover": "",
+        "any-pointer": "fine",
+        "color-gamut": "srgb",
+        "min-color-index": "68719476736",
+        "color": "8",
+        "resolution": "",
+        "forced-colors": "",
+        "inverted-colors": "",
+        "display-mode": "browser",
+        "overflow-block": "scroll",
+        "overflow-inline": "scroll",
+        "update": "fast",
+        "scripting": "enabled",
+        "grid": "0",
+        "scan": "",
+        "prefers-color-scheme": "white",
+        "prefers-contrast-scheme": "",
+        "prefers-reduced-motion": "no-preference",
+        "prefers-reduced-transparency": "reduce"
+    },
+    "B5": -1,
+    "B6": {
+        "i": -1,
+        "d": "",
+        "e": ""
+    },
+    "B7": 78563412908,
+    "B8": [
+        {
+            "deviceId": "",
+            "kind": "audioinput",
+            "label": "",
+            "groupId": ""
+        },
+        {
+            "deviceId": "",
+            "kind": "videoinput",
+            "label": "",
+            "groupId": ""
+        },
+        {
+            "deviceId": "",
+            "kind": "audiooutput",
+            "label": "",
+            "groupId": ""
+        }
+    ],
+    "B10": {
+        "ancestorOrigins": {},
+        "href": "https://example.com/en/user/signup/create-account/verification-payment",
+        "origin": "https://example.com",
+        "protocol": "https:",
+        "host": "example.com",
+        "hostname": "example.com",
+        "port": "",
+        "pathname": "/en/user/signup/create-account/verification-payment",
+        "search": "",
+        "hash": ""
+    },
+    "B11": {
+        "w": [],
+        "d": [],
+        "e": ""
+    },
+    "B12": [
+        "0"
+    ],
+    "B13": [
+        "__uspapiLocator",
+        "createElementOrig",
+        "createElement",
+        "braintree-hosted-field-number",
+        "braintree-hosted-field-expirationDate",
+        "braintree-hosted-field-cvv",
+        "braintree-hosted-field-cardholderName",
+        "dispatch_742sc711f5eb84134a78468b49ba64491",
+        "__detect_close_uid_61d93e8579_mtk6mtm6ntq__",
+        "__zoid__payment_button__eyJTYW1wbGVcispPyRcIn0sXCJ2ZXJzaW9uXCI6XCIxMF8zXzNcIixcInByb3BzXCI6e1wiZnVuZGluZ1NvdXJjZVwiOlwicGF5cGFsXCIsXCJzdHlsZVwiOntcImxhYmVsXCI6e1wiX190eXBlX19cIjpcInVuZGVmaW5lZFwifSxcImxheW91dFwiOlwiaG9yaXpvbnRhbFwiLFwiY29sb3JcIjp7XCJfX3R5cGVfX1wiOlwidW5kZWZpbmVkXCJ9LFwic2hhcGVcIjpcInBpbGxcIixcInRhZ2xpbmVcIjpmYWxzZX0sXCJidXR0b25Mb2NhdGlvblwiOlwiZXhhbXBsZS5jb21cIixcImJ1dHRvblNlc3Npb25JRFwiOlwidWlkX2ExYjJjM2Q0ZTVfcmFuZG9tcmFuZG9tXCIsXCJjbGllbnRJRFwiOlwiWFl6ZEt3WVNXd0tWMHlWekduZEhUMEUzM1JpQjZ2aXFGa192THM3TVRSd2UzWDFVV1B2OF9reUdvM3RTbkg3bnRmSURObndVYnFRWXV1UFwiLFwiY2xpZW50TWV0YWRhdGFJRFwiOlwiOTU3ZTQ0ZGQtZDg3OC00NjhmLTk2MzItMTJmZjg0ZjRkZmJiXCIsXCJsb2NhbGVcIjp7XCJjb3VudHJ5XCI6XCJVU1wiLFwibGFuZ1wiOlwiZW5cIn0sXCJzZXNzaW9uSURcIjpcImFlZDE5MjA4LTA3YmEtNDU1ZC04NDQ4LWJhODJiYjIyZmNkZlwiLFwiZW52XCI6XCJwcm9kdWN0aW9uXCIsXCJzdG9yYWdlSURcIjpcInVpZF9jNmhjOTEzNDFmX210YTZtZG02bXR1XCIsXCJzdXBwb3J0c1BvcHVwc1wiOnRydWV9fQ__"
+    ],
+    "B14": [
+        "songbirdLoader",
+        "Cardinal",
+        "executeFPRoutine",
+        "a0_0x2a18",
+        "shieldGetParams",
+        "shieldRunFP",
+        "a0_0x5dac",
+        "getDeviceResult",
+        "uuidv1cs",
+        "i",
+        "asdasdas"
+    ],
+    "B15": [
+        "lang"
+    ],
+    "B16": -1,
+    "B17": {
+        "l": "de",
+        "ul": "",
+        "bl": "",
+        "sl": "",
+        "ls": [
+            "de"
+        ]
+    },
+    "B18": "1",
+    "B19": "function eval() { [native code] }",
+    "B20": "5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36",
+    "B21": 0,
+    "B22": -1,
+    "B23": {
+        "sbt": "function",
+        "sblt": "function",
+        "e": ""
+    },
+    "B24": [
+        "[object External]",
+        {}
+    ],
+    "B25": "",
+    "B26": "function close() { [native code] }",
+    "B27": {
+        "0": false,
+        "1": false,
+        "2": false
+    },
+    "B28": {
+        "0": false,
+        "1": true,
+        "2": false
+    },
+    "B29": {
+        "0": true,
+        "1": true,
+        "2": true,
+        "3": true,
+        "4": false,
+        "5": true,
+        "6": true
+    },
+    "B30": {
+        "0": true,
+        "1": true,
+        "2": true,
+        "3": true
+    },
+    "B31": {
+        "0": true,
+        "1": true,
+        "2": true,
+        "3": true,
+        "4": true,
+        "5": true,
+        "6": true
+    },
+    "B32": {
+        "0": false,
+        "1": false,
+        "2": false,
+        "3": false
+    },
+    "B33": {
+        "0": false,
+        "1": false,
+        "2": false,
+        "3": false,
+        "4": false
+    },
+    "B34": {
+        "0": false,
+        "1": false,
+        "2": false,
+        "3": false,
+        "4": false,
+        "5": false
+    },
+    "B35": false,
+    "B36": {
+        "0": false,
+        "1": false,
+        "2": false,
+        "3": false,
+        "4": false,
+        "5": false
+    },
+    "B37": {
+        "v": -3,
+        "e": "",
+        "psc": false,
+        "psm": []
+    },
+    "B38": -3,
+    "B39": true,
+    "B40": true,
+    "B41": 0,
+    "B43": "3.0.8",
+    "B44": "J",
+    "B45": 987654321012345678,
+    "B48": {
+        "oh": 1080,
+        "ow": 1930,
+        "ih": 959,
+        "iw": 619,
+        "pb": "function bind() { [native code] }",
+        "to": -60,
+        "da": {
+            "ss": 1,
+            "ls": 1,
+            "id": 1,
+            "od": 0
+        },
+        "cr": {
+            "H": {
+                "b": 0,
+                "f": "TypeError: Cyclic __proto__ value",
+                "s": "    at Function.setPrototypeOf (<anonymous>)"
+            },
+            "P": {
+                "b": 0,
+                "f": "TypeError: Cyclic __proto__ value",
+                "s": "    at Function.setPrototypeOf (<anonymous>)"
+            },
+            "U": {
+                "b": 0,
+                "f": "TypeError: Cyclic __proto__ value",
+                "s": "    at Function.setPrototypeOf (<anonymous>)"
+            },
+            "F": {
+                "b": 0,
+                "f": "TypeError: Cyclic __proto__ value",
+                "s": "    at Function.setPrototypeOf (<anonymous>)"
+            }
+        },
+        "bi": 0,
+        "vn": "Google Inc.",
+        "ce": false,
+        "ts": false,
+        "ld": false,
+        "pt": false,
+        "pl": false,
+        "ed": "function EyeDropper() { [native code] }",
+        "ad": "function AudioData() { [native code] }",
+        "ws": "function WritableStreamDefaultController() { [native code] }",
+        "cc": "function CSSCounterStyleRule() { [native code] }",
+        "ud": "function NavigatorUAData() { [native code] }",
+        "bd": "",
+        "cm": false,
+        "cd": false,
+        "sd": "",
+        "ve": "function getVideoPlaybackQuality() { [native code] }",
+        "cs": "InvalidCharacterError: Failed to execute 'createElement' on 'Document': The tag name provided ('Invalid Tag') is not a valid name.\n    at document.createElement (https://consent.cookiebot.eu/uc.js?cbid=0b6e9c22-7c32-46ab-aebf-9b0cf9bf2156&implementation=gtm&consentmode-dataredaction=dynamic:2:48403)",
+        "ml": {},
+        "me": "",
+        "ma": "",
+        "mk": {
+            "c": {
+                "powerEfficient": true,
+                "smooth": false,
+                "supported": true,
+                "keySystemAccess": "com.widevine.alpha"
+            },
+            "e": "",
+            "b": true,
+            "s": "F69FS082asdasasasdasdasdasdadadsadsadsadss1E2B11FF4181F92758A067723",
+            "p": "",
+            "v": true,
+            "l": 2,
+            "d": 51233330.69399999992549,
+            "d1": 0,
+            "d2": 0.23999999985098839,
+            "d3": 0,
+            "d4": 1220.6999999992549,
+            "to": true
+        },
+        "d": 8765.4
+    },
+    "B50": false,
+    "B47": {
+        "d": 15432.100000000891,
+        "st": 23456.70000000234,
+        "en": 25789.300000003456,
+        "to": 1727012544123.4,
+        "e": "",
+        "dhi": "false",
+        "dvs": "visible"
+    }
+}
