@@ -34,7 +34,7 @@ const CONFIG = {
         endpoint: 'https://a65d82f32a95ed2f8fae8e20563001365d8a887b.csftr.com/shield-fp/v1/api/web',
         siteId: 'a65d82f32a95ed2f8fae8e20563001365d8a887b',
         version: 'SHIELD 1.5.154',
-        sourceUrl: 'https://onthatass.com/de/men/signup/create-account/verification-payment'
+        sourceUrl: 'https://example/de/men/signup/create-account/verification-payment'
     },
 
     // Request Configuration
