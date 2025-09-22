@@ -13,18 +13,5 @@
 ║     🎭 Browser Spoofed: No                                               ║
 ║     💻 Emulated: No                                                       ║
 ╚════════════════════════════════════════════════════════════════════════════╝
-```
 
-```
-
-### Custom Templates
-Modify `config/fp_template.json` to customize fingerprint generation:
-
-```json
-{
-  "USER_AGENT": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)...",
-  "DISPLAY": "24|24|1920|1080|1920|1080|1920|1080",
-  "GPU": "ANGLE (Intel, Intel(R) HD Graphics 630)...",
-  "TIMEZONE": "America/New_York"
-}
 ```
